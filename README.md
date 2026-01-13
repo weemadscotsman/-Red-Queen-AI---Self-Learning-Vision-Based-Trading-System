@@ -1,0 +1,2 @@
+# -Red-Queen-AI---Self-Learning-Vision-Based-Trading-System
+ *"You have to run as fast as you can just to stay in the same place. If you want to get somewhere else, you must run at least twice as fast as that."*  **Red Queen AI** is a next-generation trading dashboard concept that fuses traditional technical analysis (Pine Script logic) with computer vision (screen analysis) and evolutionary game theory. 
